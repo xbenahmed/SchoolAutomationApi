@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SchoolAutomationApi/dashboard.2pbest2csa.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dashboard.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2pbest2csa"},{"Name":"integrity","Value":"sha256-Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110="},{"Name":"label","Value":"_content/SchoolAutomationApi/dashboard.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3743"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 16:23:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SchoolAutomationApi/dashboard.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dashboard.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3743"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 16:23:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SchoolAutomationApi/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Lq/4bwsbBQwJGtogsWEY\u002Bic/bJBGoFo9g9dMj40JdK8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"746"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Lq/4bwsbBQwJGtogsWEY\u002Bic/bJBGoFo9g9dMj40JdK8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 15:55:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SchoolAutomationApi/index.q9li3on3ie.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q9li3on3ie"},{"Name":"integrity","Value":"sha256-Lq/4bwsbBQwJGtogsWEY\u002Bic/bJBGoFo9g9dMj40JdK8="},{"Name":"label","Value":"_content/SchoolAutomationApi/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"746"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Lq/4bwsbBQwJGtogsWEY\u002Bic/bJBGoFo9g9dMj40JdK8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 15:55:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SchoolAutomationApi/login.dnqo56x29e.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dnqo56x29e"},{"Name":"integrity","Value":"sha256-6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA\u002Bd6Mm94="},{"Name":"label","Value":"_content/SchoolAutomationApi/login.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2114"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00226SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA\u002Bd6Mm94=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 15:55:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SchoolAutomationApi/login.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\login.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA\u002Bd6Mm94="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2114"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00226SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA\u002Bd6Mm94=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 15:55:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

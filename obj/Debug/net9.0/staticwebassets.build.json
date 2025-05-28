@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "n5IdxsGGvyKEdK1CvNOzUP2vsXoyacR/Cqs5n8VVtfI=",
+  "Source": "SchoolAutomationApi",
+  "BasePath": "_content/SchoolAutomationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SchoolAutomationApi\\wwwroot",
+      "Source": "SchoolAutomationApi",
+      "ContentRoot": "D:\\lab\\SchoolAutomationApi\\wwwroot\\",
+      "BasePath": "_content/SchoolAutomationApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\01r31zfc15-dnqo56x29e.gz",
+      "SourceId": "SchoolAutomationApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SchoolAutomationApi",
+      "RelativePath": "login#[.{fingerprint=dnqo56x29e}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\lab\\SchoolAutomationApi\\wwwroot\\login.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "l4xdsos1oi",
+      "Integrity": "9eQqOn1uUJMDWIpmhlR+q5C12/GAXBWa0946NhV6y2E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\lab\\SchoolAutomationApi\\wwwroot\\login.html"
+    },
+    {
+      "Identity": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\8xju3tli8s-2pbest2csa.gz",
+      "SourceId": "SchoolAutomationApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SchoolAutomationApi",
+      "RelativePath": "dashboard#[.{fingerprint=2pbest2csa}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\lab\\SchoolAutomationApi\\wwwroot\\dashboard.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q91uu8lb8r",
+      "Integrity": "EpCHlfiScCSFoNeshszmjGTpbUa/QAxakSJdJuFWrw4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\lab\\SchoolAutomationApi\\wwwroot\\dashboard.html"
+    },
+    {
+      "Identity": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\mb5pm2czzy-q9li3on3ie.gz",
+      "SourceId": "SchoolAutomationApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SchoolAutomationApi",
+      "RelativePath": "index#[.{fingerprint=q9li3on3ie}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\lab\\SchoolAutomationApi\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yv05lmb3zj",
+      "Integrity": "vlDHURZoimJbdRiacwa72YxnLMTk/ouyOg7iXxcUYEM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\lab\\SchoolAutomationApi\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\lab\\SchoolAutomationApi\\wwwroot\\dashboard.html",
+      "SourceId": "SchoolAutomationApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\lab\\SchoolAutomationApi\\wwwroot\\",
+      "BasePath": "_content/SchoolAutomationApi",
+      "RelativePath": "dashboard#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2pbest2csa",
+      "Integrity": "Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dashboard.html"
+    },
+    {
+      "Identity": "D:\\lab\\SchoolAutomationApi\\wwwroot\\index.html",
+      "SourceId": "SchoolAutomationApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\lab\\SchoolAutomationApi\\wwwroot\\",
+      "BasePath": "_content/SchoolAutomationApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q9li3on3ie",
+      "Integrity": "Lq/4bwsbBQwJGtogsWEY+ic/bJBGoFo9g9dMj40JdK8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\lab\\SchoolAutomationApi\\wwwroot\\login.html",
+      "SourceId": "SchoolAutomationApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\lab\\SchoolAutomationApi\\wwwroot\\",
+      "BasePath": "_content/SchoolAutomationApi",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dnqo56x29e",
+      "Integrity": "6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA+d6Mm94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "dashboard.2pbest2csa.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\8xju3tli8s-2pbest2csa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000836120401"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EpCHlfiScCSFoNeshszmjGTpbUa/QAxakSJdJuFWrw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 16:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2pbest2csa"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.2pbest2csa.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\wwwroot\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 16:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2pbest2csa"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.2pbest2csa.html.gz",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\8xju3tli8s-2pbest2csa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EpCHlfiScCSFoNeshszmjGTpbUa/QAxakSJdJuFWrw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 16:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2pbest2csa"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EpCHlfiScCSFoNeshszmjGTpbUa/QAxakSJdJuFWrw4="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\8xju3tli8s-2pbest2csa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000836120401"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EpCHlfiScCSFoNeshszmjGTpbUa/QAxakSJdJuFWrw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 16:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\wwwroot\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 16:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sn227uVBmYvYRyRbaJX6iJlHUImuOQiYlvHKnPIs110="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.html.gz",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\8xju3tli8s-2pbest2csa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EpCHlfiScCSFoNeshszmjGTpbUa/QAxakSJdJuFWrw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 16:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EpCHlfiScCSFoNeshszmjGTpbUa/QAxakSJdJuFWrw4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\mb5pm2czzy-q9li3on3ie.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002500000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vlDHURZoimJbdRiacwa72YxnLMTk/ouyOg7iXxcUYEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Lq/4bwsbBQwJGtogsWEY+ic/bJBGoFo9g9dMj40JdK8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lq/4bwsbBQwJGtogsWEY+ic/bJBGoFo9g9dMj40JdK8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lq/4bwsbBQwJGtogsWEY+ic/bJBGoFo9g9dMj40JdK8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lq/4bwsbBQwJGtogsWEY+ic/bJBGoFo9g9dMj40JdK8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\mb5pm2czzy-q9li3on3ie.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vlDHURZoimJbdRiacwa72YxnLMTk/ouyOg7iXxcUYEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vlDHURZoimJbdRiacwa72YxnLMTk/ouyOg7iXxcUYEM="
+        }
+      ]
+    },
+    {
+      "Route": "index.q9li3on3ie.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\mb5pm2czzy-q9li3on3ie.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002500000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vlDHURZoimJbdRiacwa72YxnLMTk/ouyOg7iXxcUYEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Lq/4bwsbBQwJGtogsWEY+ic/bJBGoFo9g9dMj40JdK8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q9li3on3ie"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lq/4bwsbBQwJGtogsWEY+ic/bJBGoFo9g9dMj40JdK8="
+        }
+      ]
+    },
+    {
+      "Route": "index.q9li3on3ie.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lq/4bwsbBQwJGtogsWEY+ic/bJBGoFo9g9dMj40JdK8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q9li3on3ie"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lq/4bwsbBQwJGtogsWEY+ic/bJBGoFo9g9dMj40JdK8="
+        }
+      ]
+    },
+    {
+      "Route": "index.q9li3on3ie.html.gz",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\mb5pm2czzy-q9li3on3ie.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vlDHURZoimJbdRiacwa72YxnLMTk/ouyOg7iXxcUYEM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q9li3on3ie"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vlDHURZoimJbdRiacwa72YxnLMTk/ouyOg7iXxcUYEM="
+        }
+      ]
+    },
+    {
+      "Route": "login.dnqo56x29e.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\01r31zfc15-dnqo56x29e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001121076233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9eQqOn1uUJMDWIpmhlR+q5C12/GAXBWa0946NhV6y2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA+d6Mm94=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnqo56x29e"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA+d6Mm94="
+        }
+      ]
+    },
+    {
+      "Route": "login.dnqo56x29e.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA+d6Mm94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnqo56x29e"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA+d6Mm94="
+        }
+      ]
+    },
+    {
+      "Route": "login.dnqo56x29e.html.gz",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\01r31zfc15-dnqo56x29e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9eQqOn1uUJMDWIpmhlR+q5C12/GAXBWa0946NhV6y2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnqo56x29e"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9eQqOn1uUJMDWIpmhlR+q5C12/GAXBWa0946NhV6y2E="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\01r31zfc15-dnqo56x29e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001121076233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9eQqOn1uUJMDWIpmhlR+q5C12/GAXBWa0946NhV6y2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA+d6Mm94=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA+d6Mm94="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA+d6Mm94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SmAUPdmbNEXxFz2cZc7e1p7XZpLvDa3u2mA+d6Mm94="
+        }
+      ]
+    },
+    {
+      "Route": "login.html.gz",
+      "AssetFile": "D:\\lab\\SchoolAutomationApi\\obj\\Debug\\net9.0\\compressed\\01r31zfc15-dnqo56x29e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9eQqOn1uUJMDWIpmhlR+q5C12/GAXBWa0946NhV6y2E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 15:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9eQqOn1uUJMDWIpmhlR+q5C12/GAXBWa0946NhV6y2E="
+        }
+      ]
+    }
+  ]
+}
